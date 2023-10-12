@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T06:46:15.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vBrRo8uDBmH5S5xt6-xu" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T07:02:08.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DMp8JvgI4_KF7xuuiLxD" version="22.0.4" type="github">
   <diagram name="第 1 页" id="JTO5u36G0om0MWuu-yj3">
     <mxGraphModel dx="794" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -141,8 +141,8 @@
         <mxCell id="SXPOIJ-vD9o7ESTwps49-83" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1035" y="248" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SXPOIJ-vD9o7ESTwps49-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;注：以上数值用于举例，便于理解调温的推荐过程，不是最终的数值，可做成配置项，根据实际情况进行调整&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55" y="620" width="700" height="30" as="geometry" />
+        <mxCell id="SXPOIJ-vD9o7ESTwps49-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;注：1、以上数值用于举例，便于理解调温的推荐过程，不是最终的数值，可做成配置项，根据实际情况进行调整；&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2、根据上一棒次数据校准本棒亮度值的功能在后续优化中实现；&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="730" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXPOIJ-vD9o7ESTwps49-85" value="推荐功率power4，如果枚举功率均不合适，引晶功率取为引晶锁定时的功率值加上10kw（根据统计得出）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="168.75" width="140" height="82.5" as="geometry" />
