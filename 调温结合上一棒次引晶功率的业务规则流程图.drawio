@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T07:36:31.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pm-N_uFDnktOMg5uT8YL" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T07:39:09.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="YkAynQLUGDuqLxOOqB3q" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;查询同一炉台同一炉次的所有棒次记录&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="124.5" y="72" width="191" height="40" as="geometry" />
+          <mxGeometry x="92.25" y="70" width="255.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -34,7 +34,7 @@
         <mxCell id="afuocbFBIYYZ1BMzaNP9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-0" target="afuocbFBIYYZ1BMzaNP9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="afuocbFBIYYZ1BMzaNP9-1" value="&lt;p style=&quot;mso-pagination:widow-orphan;text-align:left;mso-list:l0 level1 lfo1;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;结合同一炉台上一炉次剩余料量接近的调温成功样本给出新开炉第一棒次的引晶功率&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-1" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;结合同一炉台上一炉次剩余料量接近的调温成功样本给出新开炉第一棒次的引晶功率&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="482" y="190" width="361" height="40" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="afuocbFBIYYZ1BMzaNP9-0">
@@ -53,8 +53,8 @@
         <mxCell id="afuocbFBIYYZ1BMzaNP9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-6" target="afuocbFBIYYZ1BMzaNP9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="afuocbFBIYYZ1BMzaNP9-6" value="&lt;span style=&quot;text-align: left; font-family: 宋体;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;查找当前剩余料量接近的所有棒次，剩余料量偏差最大值为&lt;/font&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; font-family: Calibri; font-size: 12pt;&quot;&gt;100kg&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="123" y="314" width="201" height="47" as="geometry" />
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-6" value="&lt;span style=&quot;text-align: left; font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;查找当前剩余料量偏差值100kg内的所有棒次&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="84" y="314" width="267" height="47" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-7" value="判断是否存在记录" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="169" y="390" width="100" height="80" as="geometry" />
@@ -68,7 +68,7 @@
         <mxCell id="afuocbFBIYYZ1BMzaNP9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-12" target="afuocbFBIYYZ1BMzaNP9-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="afuocbFBIYYZ1BMzaNP9-12" value="&lt;p style=&quot;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:-21.0000pt;&lt;br/&gt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;&lt;br/&gt;mso-list:l0 level1 lfo1;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;剩余料量与同炉次各棒次剩余料量相差较大时（大于&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;100kg）&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-12" value="&lt;p style=&quot;margin-left: 21pt; text-indent: -21pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;剩余料量与同炉次各棒次剩余料量偏差大于100kg&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="332" y="410" width="279" height="40" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;结合同一炉台上一炉次剩余料量接近的调温成功样本给出当前剩余料量下的引晶功率；&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
