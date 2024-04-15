@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T09:11:38.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="A_Ao0Wg3gKbpiLDSj5dQ" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T09:16:09.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bVA2Et3umpGUHkHIlk3F" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1334" dy="494" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="494" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-1" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;结合同一炉台上一炉次剩余料量接近的调温成功样本给出新开炉第一棒次的引晶功率&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="482" y="190" width="361" height="40" as="geometry" />
+          <mxGeometry x="484" y="173.5" width="309" height="73" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="afuocbFBIYYZ1BMzaNP9-0">
           <mxGeometry y="10" relative="1" as="geometry">
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-0" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;该棒次为首棒&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="323" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="321" y="178" width="120" height="64" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-4" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="279" y="180" width="33" height="26" as="geometry" />
@@ -69,10 +69,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-12" value="&lt;p style=&quot;margin-left: 21pt; text-indent: -21pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;剩余料量与同炉次各棒次剩余料量偏差大于100kg&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="332" y="410" width="279" height="40" as="geometry" />
+          <mxGeometry x="332" y="395.5" width="198" height="69" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;结合同一炉台上一炉次剩余料量接近的调温成功样本给出当前剩余料量下的引晶功率；&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="648" y="410" width="361" height="40" as="geometry" />
+          <mxGeometry x="576" y="390" width="309" height="78" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="398" width="33" height="26" as="geometry" />
@@ -90,10 +90,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-19" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;挑选放断棒次&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="332" y="603" width="279" height="40" as="geometry" />
+          <mxGeometry x="332" y="591.5" width="194" height="63" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-20" value="&lt;p style=&quot;mso-pagination:widow-orphan;text-align:left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;结合引晶平均拉速来给出&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;引晶功率&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="648" y="603" width="256" height="40" as="geometry" />
+          <mxGeometry x="587" y="587" width="256" height="72" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="591" width="33" height="26" as="geometry" />
