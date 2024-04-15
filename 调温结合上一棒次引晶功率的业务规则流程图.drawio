@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T07:35:42.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rGVQHr0rx3Z6CFBWShxa" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T07:36:31.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pm-N_uFDnktOMg5uT8YL" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -92,8 +92,8 @@
         <mxCell id="afuocbFBIYYZ1BMzaNP9-19" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;挑选放断棒次&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="332" y="603" width="279" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="afuocbFBIYYZ1BMzaNP9-20" value="&lt;p style=&quot;mso-pagination:widow-orphan;text-align:left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;基于引晶平均拉速来给出&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;引晶功率。&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="648" y="603" width="361" height="40" as="geometry" />
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-20" value="&lt;p style=&quot;mso-pagination:widow-orphan;text-align:left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;基于引晶平均拉速来给出&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;引晶功率&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="648" y="603" width="256" height="40" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="591" width="33" height="26" as="geometry" />
