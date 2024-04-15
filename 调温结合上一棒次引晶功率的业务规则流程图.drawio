@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T08:32:26.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TpydomvO6I_Lvn57LZ6U" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T08:54:07.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SF_mQKYstntLrurCZF_1" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1194" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="afuocbFBIYYZ1BMzaNP9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-26" target="afuocbFBIYYZ1BMzaNP9-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="afuocbFBIYYZ1BMzaNP9-26" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;是否干预功率标记&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-26" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;判断是否干预功率标记&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40.5" y="711" width="359" height="40" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-27" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -123,6 +123,9 @@
             <mxPoint x="219.25" y="663" as="sourcePoint" />
             <mxPoint x="220" y="711" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-32" target="afuocbFBIYYZ1BMzaNP9-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-32" value="无人工干预" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-36" y="800" width="120" height="60" as="geometry" />
@@ -142,7 +145,7 @@
         <mxCell id="afuocbFBIYYZ1BMzaNP9-41" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312" y="750" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="afuocbFBIYYZ1BMzaNP9-42" value="引晶功率升0.2kw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-42" value="最终状态为冷，引晶功率升0.2kw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="898" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="afuocbFBIYYZ1BMzaNP9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="afuocbFBIYYZ1BMzaNP9-45">
@@ -150,8 +153,77 @@
             <mxPoint x="220" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="afuocbFBIYYZ1BMzaNP9-45" value="引晶功率降0.2kw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-45" value="最终状态为热，引晶功率降0.2kw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="898" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24" y="989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-46" value="根据放肩时长得到状态1，根据引晶平均拉速得到状态2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-32" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-54" target="afuocbFBIYYZ1BMzaNP9-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-62" value="正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="afuocbFBIYYZ1BMzaNP9-58">
+          <mxGeometry x="0.4167" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-54" target="afuocbFBIYYZ1BMzaNP9-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-54" target="afuocbFBIYYZ1BMzaNP9-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-54" value="判断状态1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-36" y="989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-55" value="最终状态为热，根据引晶平均拉速降引晶功率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-221" y="1105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-56" target="afuocbFBIYYZ1BMzaNP9-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-71" value="正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="afuocbFBIYYZ1BMzaNP9-67">
+          <mxGeometry x="0.4035" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-56" target="afuocbFBIYYZ1BMzaNP9-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="afuocbFBIYYZ1BMzaNP9-56" target="afuocbFBIYYZ1BMzaNP9-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-56" value="判断状态2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-36" y="1108" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-57" value="最终状态为冷，根据引晶平均拉速升引晶功率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="149" y="1108" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-61" value="热" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-111" y="1048" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-63" value="冷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="63" y="1051" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-64" value="最终状态为正常，引晶功率不变" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-36" y="1244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-65" value="最终状态为热，根据引晶平均拉速降引晶功率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-211" y="1244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-66" value="最终状态为冷，根据引晶平均拉速升引晶功率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="149" y="1244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-70" value="热" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-99" y="1174" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-72" value="冷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="68" y="1175" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
