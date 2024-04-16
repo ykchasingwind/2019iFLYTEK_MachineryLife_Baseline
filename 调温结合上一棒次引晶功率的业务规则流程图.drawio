@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T12:12:57.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="N5H6yaGgFTGARkBGRYCF" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T05:48:50.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3T5F8jxg93G4wHx0nlPr" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1761" dy="494" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
         <mxCell id="afuocbFBIYYZ1BMzaNP9-111" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="687" y="587" width="33" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="afuocbFBIYYZ1BMzaNP9-112" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;结合同一炉台上一炉次剩余料量接近的调温成功样本给出新开炉第一棒次的引晶功率&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="afuocbFBIYYZ1BMzaNP9-112" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;结合同一炉台上一炉次剩余料量接近的调温成功样本给出&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;当前剩余料量下&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;的引晶功率&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="742" y="585" width="309" height="73" as="geometry" />
         </mxCell>
       </root>
