@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T05:46:11.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sqlX5ebrbtRIbULwFM73" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T05:48:39.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-MzkN17TZh34YkUs9dm8" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1194" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="XBTfPMOrWh-o7naQ7V93-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBTfPMOrWh-o7naQ7V93-6" target="XBTfPMOrWh-o7naQ7V93-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XBTfPMOrWh-o7naQ7V93-6" value="得到当前工艺阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XBTfPMOrWh-o7naQ7V93-6" value="判断当前工艺阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="291" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBTfPMOrWh-o7naQ7V93-7">
@@ -64,28 +64,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-7" value="引晶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-44" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="-44" y="419" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBTfPMOrWh-o7naQ7V93-8" target="XBTfPMOrWh-o7naQ7V93-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-8" value="放肩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="416" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XBTfPMOrWh-o7naQ7V93-9" target="XBTfPMOrWh-o7naQ7V93-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-9" value="转肩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="365" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="416" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-14" value="统计调温阶段数据：剩余料量、调温时长、调温结束时的亮度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-44" y="500" width="120" height="151" as="geometry" />
+          <mxGeometry x="-44" y="500" width="120" height="96" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-15" value="统计引晶阶段数据：&lt;div&gt;引晶平均拉速、引晶时间、引晶时长&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="498" width="120" height="155" as="geometry" />
+          <mxGeometry x="160" y="498" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-16" value="统计放肩阶段数据：&lt;div&gt;放肩时长、放肩时间、功率干预标记&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="365" y="502" width="120" height="157" as="geometry" />
+          <mxGeometry x="365" y="502" width="120" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
