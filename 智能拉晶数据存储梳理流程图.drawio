@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T05:48:39.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-MzkN17TZh34YkUs9dm8" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T05:49:35.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Rvnqsp-l1re0dmVbZ_mq" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1194" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,8 @@
             <mxPoint x="222" y="16.66668701171875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBTfPMOrWh-o7naQ7V93-1" value="获取CommData数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="162" y="-77" width="120" height="40" as="geometry" />
+        <mxCell id="XBTfPMOrWh-o7naQ7V93-1" value="定时获取CommData数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="162" y="-50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBTfPMOrWh-o7naQ7V93-3" value="获取最后三条数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="162" y="87" width="120" height="33" as="geometry" />
